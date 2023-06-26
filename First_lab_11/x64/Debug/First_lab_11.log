@@ -1,0 +1,10 @@
+﻿  First_lab_11.cpp
+C:\Users\Alex\Desktop\Practice 2023\First_lab_11\First_lab_11\First_lab_11.cpp(18,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Alex\Desktop\Practice 2023\First_lab_11\First_lab_11\First_lab_11.cpp(18,39): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Alex\Desktop\Practice 2023\First_lab_11\First_lab_11\First_lab_11.cpp(86,39): warning C4244: =: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\Alex\Desktop\Practice 2023\First_lab_11\First_lab_11\First_lab_11.cpp(124,32): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=size_t
+          ]
+  First_lab_11.vcxproj -> C:\Users\Alex\Desktop\Practice 2023\First_lab_11\x64\Debug\First_lab_11.exe

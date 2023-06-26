@@ -1,0 +1,1 @@
+First_lab_11.exe < 02-example.input.txt > 02-example.actual.txt
